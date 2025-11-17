@@ -1,0 +1,45 @@
+{
+    "cars": [
+        {
+            "car_id": "1",
+            "brand": "bmw",
+            "model": "x1",
+            "year": 2016,
+            "available": true
+        },
+        {
+            "car_id": "2",
+            "brand": "audi",
+            "model": "q7",
+            "year": 2020,
+            "available": false
+        },
+        {
+            "car_id": "4",
+            "brand": "audi",
+            "model": "a4",
+            "year": 2020,
+            "available": true
+        }
+    ],
+    "requests": [
+        {
+            "request_id": "2",
+            "car_id": "2",
+            "start_date": "2025-12-11",
+            "end_date": "2026-12-11"
+        },
+        {
+            "request_id": "3",
+            "car_id": "sq8",
+            "start_date": "2025-11-17",
+            "end_date": "2027-11-18"
+        },
+        {
+            "request_id": "3",
+            "car_id": "audi",
+            "start_date": "2025-11-17",
+            "end_date": "2026-11-18"
+        }
+    ]
+}
